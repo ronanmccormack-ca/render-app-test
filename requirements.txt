@@ -26,3 +26,5 @@ typing-extensions==4.9.0
 urllib3==2.1.0
 werkzeug==3.0.1
 zipp==3.17.0
+pandas
+gunicorn
